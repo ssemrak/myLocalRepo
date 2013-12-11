@@ -2,4 +2,5 @@
 
 int mai(){
 	//pridame komentar
+	int i;
 	}
