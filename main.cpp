@@ -2,5 +2,5 @@
 
 int main(){
 	/p
-	for 90
+	for (int =90)
 	}
