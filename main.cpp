@@ -5,4 +5,5 @@ int main(){
 	for (int =90)
 	//komentar
 	dopnim funkckiu
+	jjjj
 	}
